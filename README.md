@@ -5,7 +5,8 @@
 1. Download the zip file from the url in the working directory
 2. unzip the data files in the default folder "UCI HAR Dataset"
 3. Source the run_analysis.R
-4. run_analysis.R has a function called run_analysis() that does not take any parameter but will generate the tidy data in the working dir
+4. run the code using source("run_analysis.R")in working directory  
+5. it will generate the tidy data in the working dir
 
 
 # Steps in the code
